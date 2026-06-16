@@ -1,0 +1,10 @@
+{
+  "name": "adjudica-fixture-repo",
+  "version": "1.0.0",
+  "description": "Disposable test repo for generating real Semgrep Supply Chain fixture data. Not a real application.",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.20",
+    "axios": "0.21.1"
+  }
+}
