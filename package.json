@@ -4,6 +4,10 @@
   "description": "Disposable test repo for generating real Semgrep Supply Chain fixture data. Not a real application.",
   "private": true,
   "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "9.0.0",
+    "dotenv": "16.0.0",
+    "express": "4.18.2",
     "lodash": "4.17.20",
     "axios": "0.21.1"
   }
